@@ -1,5 +1,5 @@
-# minercraft(mAPI) + filepayで問い合わせてからブロードキャストする
-# minercraft-filepay
+# minercraft(mAPI)で問い合わせてからブロードキャストする
+# minercraft
 
 マイナークラフト
 https://minercraft.network/
